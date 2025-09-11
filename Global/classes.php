@@ -6,6 +6,6 @@ class classes {
     }
 
     public function today() {
-        return "<p style='font-size:1.1em; color:#34495e;'>Today is " . date("l") . "</p>";
+    return "<marquee behavior='scroll' direction='left' style='font-size:1.5em; color:#27ae60; font-weight:bold;'>Start your day with positivity and energy! You can achieve great things today!</marquee>";
     }
 }

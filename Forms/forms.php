@@ -11,9 +11,7 @@ class forms {
         <label for="email" style="font-size:1.1em; color:#34495e;">Email:</label>
         <input type="email" id="email" name="email" required style="width:100%; font-size:1em; padding:8px; box-sizing:border-box;">
         <br><br>
-        <label for="password" style="font-size:1.1em; color:#34495e;">Password:</label>
-        <input type="password" id="password" name="password" required style="width:100%; font-size:1em; padding:8px; box-sizing:border-box;">
-        <br><br>
+    <!-- Password field removed as requested -->
         <div style="text-align:center;">
             <input type="submit" value="Register" style="font-size:1.1em; color:#34495e; background-color:#ecf0f1; border:1px solid #34495e; padding:8px 16px; cursor:pointer;">
         </div>
