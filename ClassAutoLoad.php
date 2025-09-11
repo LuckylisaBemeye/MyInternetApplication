@@ -15,4 +15,3 @@ spl_autoload_register(function ($className) use ($directories) {
 // create an instance of HelloWorld
 $hello = new classes();
 $form = new forms();
-$layout = new layouts();

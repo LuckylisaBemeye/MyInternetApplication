@@ -6,6 +6,6 @@ class classes {
     }
 
     public function today() {
-        return "<p>Today is " . date("l") . "</p>";
+        return "<p style='font-size:1.1em; color:#34495e;'>Today is " . date("l") . "</p>";
     }
 }
