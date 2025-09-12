@@ -1,6 +1,6 @@
 <?php
 // Site Information
-$conf['site_name'] = '168145 Task App';
+$conf['site_name'] = 'Task App by LuckylisaBemeye';
 $conf['site_url'] = 'http://localhost';
 $conf['admin_email'] = 'admin@168145taskapp.com';
 
@@ -8,8 +8,8 @@ $conf['admin_email'] = 'admin@168145taskapp.com';
 $conf['db_type'] = 'pdo';
 $conf['db_host'] = 'localhost';
 $conf['db_user'] = 'root';
-$conf['db_pass'] = '';
-$conf['db_name'] = '168145_task_app';
+$conf['db_pass'] = '135513';
+$conf['db_name'] = 'lisa';
 
 // Site Language
 $conf['site_lang'] = 'en';
